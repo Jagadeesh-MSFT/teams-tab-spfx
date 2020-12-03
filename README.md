@@ -33,7 +33,7 @@ Starting with the SharePoint Framework v1.8, you can implement your Microsoft Te
 1) Clone this repository
 
     ```bash
-    git clone https://github.com/Jagadeesh-MSFT/TabWithSpfx.git
+    git clone https://github.com/Jagadeesh-MSFT/teams-tab-spfx.git
     ```
 
 1) If you are using Visual Code
